@@ -1,0 +1,6 @@
+c:\users\mypc\documents\visual studio 2013\Projects\委托和异步方法\委托和异步方法\bin\Debug\委托和异步方法.exe.config
+c:\users\mypc\documents\visual studio 2013\Projects\委托和异步方法\委托和异步方法\bin\Debug\委托和异步方法.exe
+c:\users\mypc\documents\visual studio 2013\Projects\委托和异步方法\委托和异步方法\bin\Debug\委托和异步方法.pdb
+c:\users\mypc\documents\visual studio 2013\Projects\委托和异步方法\委托和异步方法\obj\Debug\委托和异步方法.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2013\Projects\委托和异步方法\委托和异步方法\obj\Debug\委托和异步方法.exe
+c:\users\mypc\documents\visual studio 2013\Projects\委托和异步方法\委托和异步方法\obj\Debug\委托和异步方法.pdb
